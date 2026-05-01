@@ -47,6 +47,7 @@
     ./pyrefly.nix
     ./pyright.nix
     ./python-lsp-server.nix
+    ./qml-language-server.nix
     ./qmlls.nix
     ./r-languageserver.nix
     ./roslyn-ls.nix
